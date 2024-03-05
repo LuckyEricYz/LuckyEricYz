@@ -1,7 +1,7 @@
 ## Abstract
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yyx990803&show_icons=true&hide_border=true" alt="yangzhao's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyx990803&layout=compact&hide_border=true&langs_count=10" alt="yangzhao's Top Langs" width="37%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=LuckyEricYz&show_icons=true&hide_border=true" alt="yangzhao's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyEricYz&layout=compact&hide_border=true&langs_count=10" alt="yangzhao's Top Langs" width="37%" /> 
 </p>
 
 <a href="https://github.com/LuckyEricYz/stats-cards">
